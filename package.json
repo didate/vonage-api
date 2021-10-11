@@ -1,0 +1,27 @@
+{
+  "name": "vonage-api",
+  "version": "1.0.0",
+  "description": "Getting started with vonage api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didate/vonage-api.git"
+  },
+  "keywords": [
+    "Vonage;API"
+  ],
+  "author": "didate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didate/vonage-api/issues"
+  },
+  "homepage": "https://github.com/didate/vonage-api#readme",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.10",
+    "config": "^3.3.6"
+  }
+}
